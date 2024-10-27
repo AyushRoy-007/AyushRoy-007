@@ -1,5 +1,9 @@
+![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUfGDnAp10_8MkEu1cb5SSz_2iWyFqSg-lE9vOOMew8qRfjCNaibXGC8bYIxyDlsbAM82qf6QSW1aZqMrom5nNW66dcKWPp5liYNT3Ehy1qsgYp2pCwb8lMb-HGbwt-CMTEgF5-XLsxM8/s1600/image1.gif)
 <h1 align="center">Hi 👋, I'm Ayush Roy</h1>
 <h3 align="center">A passionate programmer from India</h3>
+
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AyushRoy-007&label=Profile%20views&color=0e75b6&style=flat" alt="ayushroy007" /> </p>
 
