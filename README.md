@@ -1,4 +1,4 @@
-![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUfGDnAp10_8MkEu1cb5SSz_2iWyFqSg-lE9vOOMew8qRfjCNaibXGC8bYIxyDlsbAM82qf6QSW1aZqMrom5nNW66dcKWPp5liYNT3Ehy1qsgYp2pCwb8lMb-HGbwt-CMTEgF5-XLsxM8/s1600/image1.gif)
+![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 <h1 align="center">Hi 👋, I'm Ayush Roy</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
